@@ -6,7 +6,7 @@ import ReactDOM from 'react-dom';
  */
 
 // Include mock API.
-import './mock';
+import './mock/index.ts';
 
 // Include styles.
 import './styles/index.css';
